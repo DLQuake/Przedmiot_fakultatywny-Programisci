@@ -13,6 +13,6 @@ Przedmiot jest prowadzony przez firmę Programiści Sp. z o.o. z Olsztyna
 Można pobrać repozytorium na dwa sposoby:
 
 * ```bash
-    git clone https://github.com/DLQuake/Przedmiot_fakultatywny-Programisci.git
+git clone https://github.com/DLQuake/Przedmiot_fakultatywny-Programisci.git
     ```
 * [Download ZIP](https://github.com/DLQuake/Przedmiot_fakultatywny-Programisci/archive/refs/heads/main.zip)
