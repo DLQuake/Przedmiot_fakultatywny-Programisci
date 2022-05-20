@@ -7,7 +7,7 @@
 ## Krótki opis repozytorium
 W tym repozytorium znajdują się pliki napisane w języku GO
 
-Przedmiot jest prowadzony przez firmę Programiści Sp. z o.o. z Olsztyna
+Przedmiot jest prowadzony przez firmę [Programiści Sp. z o.o. z Olsztyna](https://programisci.eu)
 
 ## Pobranie i Klonowanie
 Można pobrać repozytorium na dwa sposoby:
